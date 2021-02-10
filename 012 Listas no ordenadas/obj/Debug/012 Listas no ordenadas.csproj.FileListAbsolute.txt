@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\012 Listas no ordenadas\bin\Debug\012 Listas no ordenadas.exe.config
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\012 Listas no ordenadas\bin\Debug\012 Listas no ordenadas.exe
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\012 Listas no ordenadas\bin\Debug\012 Listas no ordenadas.pdb
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\012 Listas no ordenadas\obj\Debug\012 Listas no ordenadas.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\012 Listas no ordenadas\obj\Debug\012 Listas no ordenadas.exe
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\012 Listas no ordenadas\obj\Debug\012 Listas no ordenadas.pdb
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\012 Listas no ordenadas\obj\Debug\012 Listas no ordenadas.csprojAssemblyReference.cache

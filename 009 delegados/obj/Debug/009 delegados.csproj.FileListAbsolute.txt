@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\009 delegados\bin\Debug\009 delegados.exe.config
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\009 delegados\bin\Debug\009 delegados.exe
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\009 delegados\bin\Debug\009 delegados.pdb
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\009 delegados\obj\Debug\009 delegados.csprojAssemblyReference.cache
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\009 delegados\obj\Debug\009 delegados.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\009 delegados\obj\Debug\009 delegados.exe
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\009 delegados\obj\Debug\009 delegados.pdb

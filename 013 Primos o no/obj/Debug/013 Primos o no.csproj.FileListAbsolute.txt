@@ -1,0 +1,9 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\013 Primos o no\bin\Debug\013 Primos o no.exe.config
+C:\Users\lenovo\Cursos\C#\Temas investigados\013 Primos o no\bin\Debug\013 Primos o no.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\013 Primos o no\bin\Debug\013 Primos o no.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\013 Primos o no\obj\Debug\013 Primos o no.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\013 Primos o no\obj\Debug\013 Primos o no.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\013 Primos o no\obj\Debug\013 Primos o no.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\013 Primos o no\obj\Debug\013 Primos o no.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\013 Primos o no\obj\Debug\_013_Primos_o_no.UserControl1.resources
+C:\Users\lenovo\Cursos\C#\Temas investigados\013 Primos o no\obj\Debug\013 Primos o no.csproj.GenerateResource.cache

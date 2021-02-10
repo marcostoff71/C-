@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\011 filas ordenadas\bin\Debug\011 filas ordenadas.exe.config
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\011 filas ordenadas\bin\Debug\011 filas ordenadas.exe
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\011 filas ordenadas\bin\Debug\011 filas ordenadas.pdb
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\011 filas ordenadas\obj\Debug\011 filas ordenadas.csprojAssemblyReference.cache
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\011 filas ordenadas\obj\Debug\011 filas ordenadas.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\011 filas ordenadas\obj\Debug\011 filas ordenadas.exe
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\011 filas ordenadas\obj\Debug\011 filas ordenadas.pdb

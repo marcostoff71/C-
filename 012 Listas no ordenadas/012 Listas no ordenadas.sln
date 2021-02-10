@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012 Listas no ordenadas", "012 Listas no ordenadas.csproj", "{86AECC32-7BF7-4452-BF45-AF37DC5F9F20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86AECC32-7BF7-4452-BF45-AF37DC5F9F20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86AECC32-7BF7-4452-BF45-AF37DC5F9F20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86AECC32-7BF7-4452-BF45-AF37DC5F9F20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86AECC32-7BF7-4452-BF45-AF37DC5F9F20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72969B20-CD89-49DA-80B9-2B0B718E0354}
+	EndGlobalSection
+EndGlobal

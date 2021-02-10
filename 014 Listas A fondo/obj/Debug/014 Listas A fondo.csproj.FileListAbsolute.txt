@@ -1,0 +1,7 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\014 Listas A fondo\bin\Debug\014 Listas A fondo.exe.config
+C:\Users\lenovo\Cursos\C#\Temas investigados\014 Listas A fondo\bin\Debug\014 Listas A fondo.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\014 Listas A fondo\bin\Debug\014 Listas A fondo.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\014 Listas A fondo\obj\Debug\014 Listas A fondo.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\014 Listas A fondo\obj\Debug\014 Listas A fondo.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\014 Listas A fondo\obj\Debug\014 Listas A fondo.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\014 Listas A fondo\obj\Debug\014 Listas A fondo.pdb

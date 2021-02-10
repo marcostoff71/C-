@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\010 Predicados\bin\Debug\010 Predicados.exe.config
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\010 Predicados\bin\Debug\010 Predicados.exe
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\010 Predicados\bin\Debug\010 Predicados.pdb
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\010 Predicados\obj\Debug\010 Predicados.csprojAssemblyReference.cache
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\010 Predicados\obj\Debug\010 Predicados.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\010 Predicados\obj\Debug\010 Predicados.exe
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\010 Predicados\obj\Debug\010 Predicados.pdb
